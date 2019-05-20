@@ -1,4 +1,5 @@
-I stole Karl's notes!!
+
+Today's code: https://github.com/NimaBoscarino/rspec-notes
 
 Some links from lecture:
 
@@ -12,8 +13,9 @@ https://github.com/NimaBoscarino/react-rails-boilerplate
 
 https://github.com/NimaBoscarino/react-redux-boilerplate
 
+I stole Karl's notes!!
 
-Slides and notes available at [https://github.com/jensen/testing-notes/](https://github.com/jensen/testing-notes/)
+Karl's Slides and notes available at [https://github.com/jensen/testing-notes/](https://github.com/jensen/testing-notes/)
 
 We've brought up testing. Week one with JavaScript using [Mocha](https://mochajs.org/) and [Chai](https://www.chaijs.com/). We know that testing is an important part of software development. Why didn't we see more over the last seven weeks?
 
